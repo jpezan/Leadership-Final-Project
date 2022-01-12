@@ -39,10 +39,12 @@ Successfully predict if a customer will default
 
 ### Risks:
 Consider risks associated with false positives and false negatives:
-False Positive: The business does not want to turn down a customer who is able to make their 
-payments
+
+### False Positive: 
+The business does not want to turn down a customer who is able to make their payments
 
 ### False Negative: 
 The business does not want to sell membership to a customer who does not fill their financial obligations
-Value Estimation:
+
+### Value Estimation:
 Calculate the value estimation of doing this project
